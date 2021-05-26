@@ -1,0 +1,5 @@
+- 👋 Olá, meu codenome é @astr4br. 
+- 👀 Eu me interesso por programação web back end.
+- 🌱 Atualmente estou aprendendo php 8.
+- 💞️ Estou procurando colaborar em softwares Livres.
+- 📫 Como me alcançar: alansilvaprogramador@outlook.com.br
